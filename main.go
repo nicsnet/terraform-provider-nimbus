@@ -2,5 +2,5 @@
 package main
 
 func main() {
-  println("Hello VCS!")
+  println("Hello world!")
 }
